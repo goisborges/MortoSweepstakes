@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcosborges/Documents/GitHub/MortoSweepstakes/MortoSweepstakes/MortoSweepstakes.csproj": {}
+    "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\MortoSweepstakes.csproj": {}
   },
   "projects": {
-    "/Users/marcosborges/Documents/GitHub/MortoSweepstakes/MortoSweepstakes/MortoSweepstakes.csproj": {
+    "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\MortoSweepstakes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcosborges/Documents/GitHub/MortoSweepstakes/MortoSweepstakes/MortoSweepstakes.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\MortoSweepstakes.csproj",
         "projectName": "MortoSweepstakes",
-        "projectPath": "/Users/marcosborges/Documents/GitHub/MortoSweepstakes/MortoSweepstakes/MortoSweepstakes.csproj",
-        "packagesPath": "/Users/marcosborges/.nuget/packages/",
-        "outputPath": "/Users/marcosborges/Documents/GitHub/MortoSweepstakes/MortoSweepstakes/obj/",
+        "projectPath": "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\MortoSweepstakes.csproj",
+        "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/marcosborges/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Isabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
