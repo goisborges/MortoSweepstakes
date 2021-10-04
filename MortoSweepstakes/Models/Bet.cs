@@ -33,5 +33,6 @@ namespace MortoSweepstakes.Models
         public Match Match { get; set; }
 
         //User Id needs to be a Foreign Key here
+        public string UserId { get; set; }
     }
 }
