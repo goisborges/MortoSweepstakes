@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xmElchPohQOo25/ikI9wQ1Ho9xgRIvvYFB8yerfWwnWVqJSyg06Vfp7POLCfckHHeqoqCz2Zioss6TyGFRrCXA==",
+  "dgSpecHash": "0HSarLZdbKR+JJbiUIOFsMEr9GxWX4W4YNJc+OQKqPTRUk4Hj4ijXKDY2cIQzZ9b+1eNfOnWgmzFd5JdH0H6sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isabella\\source\\repos\\goisborges\\MortoSweepstakes\\MortoSweepstakes\\MortoSweepstakes.csproj",
   "expectedPackageFiles": [
@@ -136,7 +136,8 @@
     "C:\\Users\\Isabella\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Isabella\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Isabella\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
   ],
   "logs": []
 }
